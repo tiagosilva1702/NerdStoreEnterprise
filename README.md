@@ -2,7 +2,9 @@
 ASP.NET Core Enterprise Applications
 
 Fluxo de autenticação WebAPP - API
+
 Setup da arquitetura base
+
 Configuração do Identity
 Registro e login de usuário
 Documentação da API 
